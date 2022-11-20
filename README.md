@@ -1,9 +1,9 @@
 ### Howdy! 👋
-My name is David and I like to break things and then make them work again... 
+My name is David and I like to break things and then make them work again... <br>
 I recently graduated from Pennsylvania Highlands Community College and am looking to make some sort of change in the world with the new knowledge I've acquired..
-
+<br><br>
 Besides that, I do stuff with Python to make things happen
-
+<br>
 • Father of 2<br>
 • Esports Broadcaster<br>
 • Computer Support Specialist<br>
