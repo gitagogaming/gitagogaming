@@ -1,4 +1,13 @@
-### Hi there 👋
+### Howdy! 👋
+I do stuff with Python to make things happen
+
+• Father of 2
+• Esports Broadcaster
+• Computer Support Specialist
+• TouchPortal Plugin Developer
+
+- 💬 Ask me about ANYTHING.... I love questions
+- 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
 
 <!--
 **gitagogaming/gitagogaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
