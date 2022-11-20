@@ -1,13 +1,16 @@
 ### Howdy! 👋
-I do stuff with Python to make things happen
+My name is David and I like to break things and then make them work again... 
+I recently graduated from Pennsylvania Highlands Community College and am looking to make some sort of change in the world with the new knowledge I've acquired..
+
+Besides that, I do stuff with Python to make things happen
 
 • Father of 2<br>
 • Esports Broadcaster<br>
 • Computer Support Specialist<br>
 • TouchPortal Plugin Developer<br>
 
-- 💬 Ask me about ANYTHING.... I love questions
-- 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
+💬 Ask me about ANYTHING.... I love questions
+📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
 
 <!--
 **gitagogaming/gitagogaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
