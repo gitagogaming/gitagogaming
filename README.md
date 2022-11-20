@@ -9,7 +9,7 @@ Besides that, I do stuff with Python to make things happen
 • Computer Support Specialist<br>
 • TouchPortal Plugin Developer<br>
 
-💬 Ask me about ANYTHING.... I love questions
+💬 Ask me about ANYTHING.... I love questions <br>
 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
 
 <!--
