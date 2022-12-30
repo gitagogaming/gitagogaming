@@ -55,7 +55,7 @@ Besides that, I do stuff with Python to make things happen
 
 <br><br>
 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!--
 **gitagogaming/gitagogaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
