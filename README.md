@@ -52,6 +52,9 @@ Besides that, I do stuff with Python to make things happen
     </a>
 </div>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gitagogaming&&style=flat-square" align="center" />
+</div>  
 
 <br><br>
 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
