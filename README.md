@@ -39,10 +39,17 @@ Besides that, I do stuff with Python to make things happen
 </td><td valign="top" width="33%">
 
 ## Github Stats  
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gitagogaming&show_icons=true&count_private=true&hide_border=true" align="center">
-</div>  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=gitagogaming&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitagogaming&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 <div align="left">
     <a href="paypal.me/gitagogaming" target="_blank" style="display: inline-block;">
