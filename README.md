@@ -37,19 +37,11 @@ Besides that, I do stuff with Python to make things happen
 <br/>  
 
 </td><td valign="top" width="33%">
-
+    
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gitagogaming&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=gitagogaming&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitagogaming&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+<br/>    
 
 <div align="left">
     <a href="paypal.me/gitagogaming" target="_blank" style="display: inline-block;">
@@ -63,7 +55,7 @@ Besides that, I do stuff with Python to make things happen
 
 <br><br>
 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!--
 **gitagogaming/gitagogaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
