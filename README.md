@@ -30,13 +30,8 @@ Besides that, I do stuff with Python to make things happen
 ---
 ## Languages and Tools  
 <div align="center">  
-    
-![image](https://user-images.githubusercontent.com/76603653/210036061-184cf83d-d709-4139-b3f4-43e331a582f7.png)
-
-![image](https://user-images.githubusercontent.com/76603653/210036047-43037c36-3e0c-45cc-9a7f-252780a221da.png)
-</div>  
 ![image](https://user-images.githubusercontent.com/76603653/210036069-bddb92f8-a354-4f2a-825a-75148a4e3aff.png)
-
+</div>  
 <br/>  
 
 </td><td valign="top" width="33%">
