@@ -1,5 +1,4 @@
-### Howdy! 👋
-My name is David and I like to break things and then make them work again... <br>
+### Hi There 👋, My name is David and I like to create stuff, fix it and then make it work again... <br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/david-bell-68277256/" target="_blank">
@@ -16,7 +15,7 @@ My name is David and I like to break things and then make them work again... <br
 </div>
 
 
-
+---
 I recently graduated from Pennsylvania Highlands Community College and am looking to make some sort of change in the world with the new knowledge I've acquired..
 <br><br>
 Besides that, I do stuff with Python to make things happen
@@ -26,7 +25,7 @@ Besides that, I do stuff with Python to make things happen
 • Computer Support Specialist<br>
 • TouchPortal Plugin Developer<br>
 
-
+---
 
 ## Github Stats  
 <div align="left">
