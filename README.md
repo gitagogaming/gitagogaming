@@ -44,6 +44,8 @@ Besides that, I do stuff with Python to make things happen
     </a>
 </div>  
 
+
+<br><br>
 📫 Contact me on Discord @ `Gitago (Formerly known as Coop)#0604`
 
 <!--
