@@ -14,7 +14,7 @@
 
 ---
 
-### Hi There 👋, My name is David and I like to create stuff, fix it and then make it work again... <br>
+### Hi There 👋, My name is David and I like create and fix things. <br>
 
 
 ---
