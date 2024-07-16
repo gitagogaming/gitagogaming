@@ -52,13 +52,14 @@ Besides that, I do stuff with Python to make things happen
 <br/>    
 
 <div align="left">
-    <a href="https://www.paypal.me/gitagogaming" target="_blank" style="display: inline-block;">
+    <a href="https://www.paypal.me/gitagogaming" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
         <img
             src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
             align="center"
         />
     </a>
-</div>  
+</div>
+
 
 
 <br><br>
