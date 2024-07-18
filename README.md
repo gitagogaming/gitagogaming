@@ -54,13 +54,11 @@ Besides that, I do stuff with Python to make things happen
 <div align="left">
     <a href="https://www.paypal.me/gitagogaming" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
         <img
-            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+            src="https://img.shields.io/badge/Buy%20Me%20a%20Green%20Tea-80A867?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
             align="center"
         />
     </a>
 </div>
-
-
 
 <br><br>
 📫 Contact me on Discord @ `Gitago`
