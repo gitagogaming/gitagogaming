@@ -16,16 +16,17 @@
 
 ### Hi There 👋, My name is David and I like create and fix things. <br>
 
-
 ---
-I recently graduated from Pennsylvania Highlands Community College and am looking to make some sort of change in the world with the new knowledge I've acquired..
-<br><br>
-Besides that, I do stuff with Python to make things happen
+I am eager to leverage my skills and knowledge to make a meaningful impact in software development and technology.<br>
+With a strong foundation in Python development, I specialize in creating innovative solutions and applications.
+
 <br>
 • Father of 2<br>
-• Esports Broadcaster<br>
+• Python Developer
 • Computer Support Specialist<br>
 • TouchPortal Plugin Developer<br>
+• Esports Broadcaster<br>
+• Graphic Design
 
 ---
 ## Languages and Tools  
