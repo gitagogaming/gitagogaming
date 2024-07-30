@@ -22,7 +22,7 @@ With a strong foundation in Python development, I specialize in creating innovat
 
 <br>
 • Father of 2<br>
-• Python Developer
+• Python Developer<br>
 • Computer Support Specialist<br>
 • TouchPortal Plugin Developer<br>
 • Esports Broadcaster<br>
