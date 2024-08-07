@@ -21,7 +21,6 @@ I am eager to leverage my skills and knowledge to make a meaningful impact in so
 With a strong foundation in Python development, I specialize in creating innovative solutions and applications.
 
 <br>
-• Father of 2<br>
 • Python Developer<br>
 • Computer Support Specialist<br>
 • TouchPortal Plugin Developer<br>
