@@ -8,6 +8,7 @@
     </a>  
 </div>
 
+![](https://komarev.com/ghpvc/?gitagogaming)
 ---
 
 ### Hi There 👋, My name is David and I like create and fix things. <br>
