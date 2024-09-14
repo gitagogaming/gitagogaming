@@ -59,6 +59,8 @@ With a strong foundation in Python development, I specialize in creating innovat
 <br><br>
 📫 Contact me on Discord @ `Gitago`
 
+
+![](https://hit.yhype.me/github/profile?user_id=76603653)
 <!--
 **gitagogaming/gitagogaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
